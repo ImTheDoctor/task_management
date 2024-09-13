@@ -23,3 +23,4 @@ This task management system, built using Node.js, provides an efficient backend 
 - **Express:**
 - **Mongo & Mongoose:**
 - **Moment JS:**
+- **Express Validator:**
